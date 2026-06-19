@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "AK",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/ak",
+  "governor": "Mike Dunleavy",
+  "senators": [
+    "Dan Sullivan",
+    "Lisa Murkowski"
+  ]
+}
