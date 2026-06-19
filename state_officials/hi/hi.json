@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "HI",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/hi",
+  "governor": "Josh Green",
+  "senators": [
+    "Brian Schatz",
+    "Mazie Hirono"
+  ]
+}
