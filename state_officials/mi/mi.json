@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "MI",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/mi",
+  "governor": "Gretchen Whitmer",
+  "senators": [
+    "Elissa Slotkin",
+    "Gary Peters"
+  ]
+}
