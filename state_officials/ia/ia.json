@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "IA",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/ia",
+  "governor": "Kim Reynolds",
+  "senators": [
+    "Chuck Grassley",
+    "Joni Ernst"
+  ]
+}
