@@ -1,22 +1,29 @@
-# us-states-audio
+# us-info
 
-SHARK TECH LLC - State officials data + audio for My Citizenship Prep.
+SHARK TECH LLC - Officials data + audio for My Citizenship Prep.
 
-Downloaded on demand by the app when a user sets (or refreshes) their state —
-nothing here is bundled into the app.
+Downloaded on demand by the app — nothing here is bundled into the app.
+Currently covers state officials (governor, senators, capital); reserved
+for federal/government officials (e.g. president) in the future.
 
 ## Layout
 
 ```
 data/
-  al.json, ak.json, ... (one per state, lowercase 2-letter code)
+  state_officials/
+    al.json, ak.json, ... (one per state, lowercase 2-letter code)
+  government_officials/
+    (reserved for future use, e.g. president.json)
 audio/
-  al/governor_en.mp3, governor_es.mp3, senators_en.mp3, senators_es.mp3,
-     capital_en.mp3, capital_es.mp3
-  ak/...
+  state_officials/
+    al/governor_en.mp3, governor_es.mp3, senators_en.mp3, senators_es.mp3,
+       capital_en.mp3, capital_es.mp3
+    ak/...
+  government_officials/
+    (reserved for future use)
 ```
 
-## `data/<code>.json` schema
+## `data/state_officials/<code>.json` schema
 
 ```json
 {
@@ -36,9 +43,8 @@ audio/
   user as "last verified on...".
 - `capital` is optional — the app already bundles a static state→capital
   list, so it's only useful here if you want this repo to be the single
-  source of truth (e.g. if a capital were ever to change). If omitted, the
-  app keeps its bundled value.
-- Audio file names are fixed per state folder: `governor_en.mp3`,
+  source of truth. If omitted, the app keeps its bundled value.
+- Audio file names are fixed within each state's folder: `governor_en.mp3`,
   `governor_es.mp3`, `senators_en.mp3`, `senators_es.mp3`, `capital_en.mp3`,
   `capital_es.mp3` — all 6 are required, since the app's civics questions
   cover governor, senators, *and* capital.
