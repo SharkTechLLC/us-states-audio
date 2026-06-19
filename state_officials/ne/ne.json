@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "NE",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/ne",
+  "governor": "Jim Pillen",
+  "senators": [
+    "Deb Fischer",
+    "Pete Ricketts"
+  ]
+}
