@@ -1,0 +1,152 @@
+[
+  {
+    "id": 51,
+    "reading_prompt": "What city in the United States has the largest population?",
+    "writing_sentence": "New York City has the largest population in the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 52,
+    "reading_prompt": "Who lived in America before the Europeans arrived?",
+    "writing_sentence": "American Indians lived in the United States before the Europeans arrived.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 53,
+    "reading_prompt": "Who can vote in state and federal elections in the United States?",
+    "writing_sentence": "Citizens can vote in state and federal elections.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 54,
+    "reading_prompt": "What was the war fought between the north and the south?",
+    "writing_sentence": "The Civil War was fought between the north and the south.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 55,
+    "reading_prompt": "What are the first three words of the US Constitution?",
+    "writing_sentence": "We the people are the first three words of the US Constitution.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 56,
+    "reading_prompt": "What are the names of three presidents who led the United States?",
+    "writing_sentence": "Adams, Lincoln, and Washington are all presidents of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 57,
+    "reading_prompt": "Who lived in America before the country was founded?",
+    "writing_sentence": "American Indians lived in the United States before the country was founded.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 58,
+    "reading_prompt": "When do people observe Columbus Day?",
+    "writing_sentence": "Columbus Day is observed in October in many states.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 59,
+    "reading_prompt": "How many senators do we have in Congress in our country?",
+    "writing_sentence": "The 50 states have 100 senators, two for each state.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 60,
+    "reading_prompt": "What are three states that are part of the United States of America?",
+    "writing_sentence": "California, Alaska, and Delaware are three states in the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 61,
+    "reading_prompt": "Which president is featured on the one-dollar bill?",
+    "writing_sentence": "George Washington is featured on the one-dollar bill.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 62,
+    "reading_prompt": "What is the supreme law of the land in our nation?",
+    "writing_sentence": "The United States Constitution is the supreme law of the land.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 63,
+    "reading_prompt": "What form of government does the United States have?",
+    "writing_sentence": "The United States form of government is a republic.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 64,
+    "reading_prompt": "What are the two major political parties in the United States?",
+    "writing_sentence": "The Democratic and Republican parties are the two major political parties.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 65,
+    "reading_prompt": "When must all men register for the Selective Service?",
+    "writing_sentence": "All men must register for the Selective Service at age 18.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 66,
+    "reading_prompt": "What is one of the important responsibilities of US citizens?",
+    "writing_sentence": "Voting in federal elections is an important responsibility of citizens.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 67,
+    "reading_prompt": "Who wrote the Declaration of Independence?",
+    "writing_sentence": "Thomas Jefferson wrote the Declaration of Independence.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 68,
+    "reading_prompt": "When was the United States Constitution written?",
+    "writing_sentence": "The United States Constitution was written in 1787.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 69,
+    "reading_prompt": "What territory did the United States buy from France in 1803?",
+    "writing_sentence": "The United States bought the Louisiana Territory from France in 1803.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 70,
+    "reading_prompt": "What ocean is on the West Coast of the United States?",
+    "writing_sentence": "The Pacific Ocean is on the West Coast of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 71,
+    "reading_prompt": "What ocean is on the East Coast of the United States?",
+    "writing_sentence": "The Atlantic Ocean is on the East Coast of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 72,
+    "reading_prompt": "What are two rights of everyone living in the United States?",
+    "writing_sentence": "Freedom of speech and freedom of religion are two rights for everyone.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 73,
+    "reading_prompt": "What group of people was taken to America and sold as slaves?",
+    "writing_sentence": "People from Africa were taken to America and sold as slaves.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 74,
+    "reading_prompt": "Why did the colonists fight the British in the Revolutionary War?",
+    "writing_sentence": "The colonists fought the British because of taxation without representation.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 75,
+    "reading_prompt": "What did the Declaration of Independence do for the colonies?",
+    "writing_sentence": "The Declaration of Independence announced our freedom from Great Britain.",
+    "category": "sentence_practice"
+  }
+]
